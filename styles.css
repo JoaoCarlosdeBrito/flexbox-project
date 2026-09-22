@@ -1,0 +1,54 @@
+body {
+  display: flex;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  color: #F9FAF8;
+  background-color: #1F2937;
+}
+
+.blococentral {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cabecalho, .informacoes, .titulo {
+  width: 800px;
+  margin: 0px auto;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 24px;
+}
+
+ul {
+  display: flex;
+  color: white;
+  list-style: none;
+  gap: 20px;
+}
+
+.titulo {
+
+}
+
+.informacoes {
+  background-color: white;
+  color: #1F2937
+}
+
+.citacao {
+
+}
+
+.acao {
+
+}
+
+.rodape {
+
+}
